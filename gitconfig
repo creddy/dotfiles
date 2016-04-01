@@ -20,3 +20,5 @@
 	fsckobjects = true
 [receive]
 	fsckObjects = true
+[rebase]
+	autosquash = true
